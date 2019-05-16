@@ -13,11 +13,10 @@
     - 乃之风
   - 7月12：回札幌，下午飞东京
   - 7月13：一天东京 or 晚上住横滨
-  - 7月14：leave from 羽田机场
+  - 7月14：leave from 羽田机场 at evening
 ## 行
   - 7月7：Bella at 虹桥
   - 7月8：with Bella at pvg on 8:00 a.m
-    - 
-  - JR：5日票or7日票
-    - 单程票 ☑
-  - 7月14：evening Bella back (sadly) to TAS 
+  - 7月8新千岁 ~ 7月12新千岁 期间，JR火车
+    - 单程票 in 北海道交通  ☑
+  - 7月14：Bella back (sadly) to TAS 
