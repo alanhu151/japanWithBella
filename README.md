@@ -10,6 +10,7 @@
     - 不定
 ## 行
   - 7月7：Bella at 虹桥
+  - 7月8：with Bella at pvg on 8:00 a.m
   - JR：5日票or7日票
     - 单程票 ☑
   - 7月14：evening Bella back (sadly) to TAS 
