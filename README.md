@@ -19,4 +19,6 @@
   - 7月8：with Bella at pvg on 8:00 a.m
   - 7月8新千岁 ~ 7月12新千岁 期间，JR火车
     - 单程票 in 北海道交通  ☑
+  - 7月12晚飞东京机票：
+  - 7月13~14晚交通：
   - 7月14：Bella back (sadly) to TAS 
