@@ -3,7 +3,7 @@
   - 海鲜，奶制品：生牛乳，冰激凌，生巧
   - 小樽cheesscake、气球pudding、玉米、烤肉，拉面
 ## 住
-  - 7月7：pvg附近酒店（with Bella）
+  - 7月7：金茂（with Bella）
   - 7月8：小樽 KOURAKUEN
     - We are afraid we do not have shuttle bus.
 From Sapporo station, please take JR train bound for Otaru and get off at the Otaru-Chikkou station.
