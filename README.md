@@ -20,7 +20,7 @@ If your arrival time will be over 19:00, please tell us. We prepare your dinner 
     - 住：
   - 7月13：一天东京 or 晚上住横滨（有便宜协议价）
     - 住：
-  - 7月14：leave from 羽田机场 at evening
+  - 7月14：leave from 成田机场 at evening
 ## 行
   - 7月7：Bella at 虹桥
   - 7月8：with Bella at pvg on 8:00 a.m
