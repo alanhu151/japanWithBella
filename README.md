@@ -24,7 +24,7 @@ New Chitose Airport(新千歳空港) —->(65 min by JR Line [1])—-> Otaru-Chi
   - 7月8新千岁 ~ 7月12新千岁 期间，JR+bus
     - 单程票 in 北海道交通  ☑
   - 7月13~14交通：taxi
-  - 7月14：Bella back (sadly) to TAS 
+  - 7月14：Bella back (reluctantly) to TAS 
     - Bella: 8:00 成田 澳航
     - Alan: 7:30 成田 国航
 ## 买
