@@ -11,7 +11,7 @@ New Chitose Airport(新千歳空港) —->(65 min by JR Line [1])—-> Otaru-Chi
     - 住：Hotel Nord Otaru
   - 7月10：札幌
     - 住：La'Gent Stay Sapporo Odori Hokkaido
-  - 7月11：洞爷湖
+  - 7月11：洞爷湖  (预定班车 or jr到洞爷转20分钟bus）
     - 住：乃之风
   - 7月12：JR pass to 东京
     - 住：洲际东京湾
