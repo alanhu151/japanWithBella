@@ -3,7 +3,7 @@
   - 海鲜(海胆)，奶制品：生牛乳，冰激凌，生巧
   - 小樽cheesscake、气球pudding、玉米、烤肉，拉面
 ## 住
-  - 7月7：香格里拉（with Bella）
+  - 7月7：香格里拉（with Bella）☑
   - 7月8：小樽 
     - 住 KOURAKUEN ☑
     - We are afraid we do not have shuttle bus.
@@ -21,8 +21,8 @@ New Chitose Airport(新千歳空港) —->(65 min by JR Line [1])—-> Otaru-Chi
   - 7月14：leave from 成田机场 at evening
 ## 行
   - 7月7：Bella at 虹桥 ☑
-  - 7月8：with Bella at pvg on 8:00 a.m ☑ 
-    - 换jr pass， 新千岁做到小樽，打车去kourakuen
+  - 7月8：leave hotel with Bella on 5:30 a.m ☑ 
+    - 换jr pass，解决上网，新千岁坐到小樽，打车去kourakuen
   - 7月8新千岁 ~ 7月12新千岁 期间，JR+bus
     - JR PASS全国联票 ☑
   - 7月13~14交通：taxi
