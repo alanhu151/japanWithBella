@@ -29,7 +29,7 @@ New Chitose Airport(新千歳空港) —->(65 min by JR Line [1])—-> Otaru-Chi
      - 出发： Shin-Hakodate-Hokuto (13:39)
      - 到达： Tokyo (18:04)
      - 乘客： 2名 大人 / 0名 儿童
-  - 7月13~14交通：taxi
+  - 7月13: 11点半到三鹰市jr车站
   - 7月14：Bella back (reluctantly) to TAS 
     - Bella: 8:00 成田 澳航 ☑
     - Alan: 7:30 成田 国航 ☑
