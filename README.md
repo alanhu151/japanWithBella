@@ -23,13 +23,12 @@ New Chitose Airport(新千歳空港) —->(65 min by JR Line [1])—-> Otaru-Chi
   - 7月7：Bella at 虹桥 ☑
   - 7月8：leave hotel with Bella on 5:30 a.m ☑ 
     - 换jr pass，解决上网，新千岁坐到小樽，打车去kourakuen
-  - 7月8新千岁 ~ 7月12新千岁 期间，JR+bus
-    - JR PASS全国联票 ☑
-     - 7月12日
-      - 车次： Hayabusa 28
-      - 出发： Shin-Hakodate-Hokuto (13:39)
-      - 到达： Tokyo (18:04)
-      - 乘客： 2名 大人 / 0名 儿童
+  - 7月8新千岁 ~ 7月12新千岁 期间，JR PASS全国联票
+    - 7月12日☑
+     - 车次： Hayabusa 28
+     - 出发： Shin-Hakodate-Hokuto (13:39)
+     - 到达： Tokyo (18:04)
+     - 乘客： 2名 大人 / 0名 儿童
   - 7月13~14交通：taxi
   - 7月14：Bella back (reluctantly) to TAS 
     - Bella: 8:00 成田 澳航 ☑
