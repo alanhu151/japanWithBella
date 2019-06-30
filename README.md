@@ -24,10 +24,12 @@ New Chitose Airport(新千歳空港) —->(65 min by JR Line [1])—-> Otaru-Chi
     - 换jr pass，解决上网，新千岁坐到小樽，打车去kourakuen
   - 7月8新千岁 ~ 7月12新千岁 期间，JR PASS全国联票
     - 7月12日☑
+     - 车次： Super Hokuto 8
+     - 出发： Toya (11:24)
+     - 到达： Shin-Hakodate-Hokuto (13:06)
      - 车次： Hayabusa 28
      - 出发： Shin-Hakodate-Hokuto (13:39)
      - 到达： Tokyo (18:04)
-     - 乘客： 2名 大人 / 0名 儿童
   - 7月13: 11点半到三鹰市jr车站
   - 7月14：Bella back (reluctantly) to TAS 
     - Bella: 8:00 成田 澳航 ☑
