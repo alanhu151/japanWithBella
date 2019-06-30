@@ -11,7 +11,7 @@ New Chitose Airport(新千歳空港) —->(65 min by JR Line [1])—-> Otaru-Chi
     - 住：Hotel Nord Otaru ☑
   - 7月10：札幌
     - 住：La'Gent Stay Sapporo Odori Hokkaido ☑
-  - 7月11：洞爷湖  (预定班车 or jr到洞爷转20分钟bus）
+  - 7月11：洞爷湖  (）
     - 住：乃之风 ☑
   - 7月12：JR pass to 东京
     - 住：洲际东京湾 ☑
@@ -23,7 +23,10 @@ New Chitose Airport(新千歳空港) —->(65 min by JR Line [1])—-> Otaru-Chi
   - 7月8：leave hotel with Bella on 5:30 a.m ☑ 
     - 换jr pass，解决上网，新千岁坐到小樽，打车去kourakuen
   - 7月8新千岁 ~ 7月12新千岁 期间，JR PASS全国联票
-    - 7月12日☑
+    - 7月8
+     - 预定11号乃之风的班车（11号13:30从札幌站北口出发） or 就地预定到洞爷的jr转20分钟bus(jr pass)/taxi(2000~3000yan)
+     - 预定班车网址：http://www.noguchi-g.com/bus_rsv.cgi?bus_fac_id=17
+    - 7月12☑
      - 车次： Super Hokuto 8
      - 出发： Toya (11:24)
      - 到达： Shin-Hakodate-Hokuto (13:06)
