@@ -19,19 +19,18 @@
 ## 行
   - 7月8：meet Bella at pvg on 6:00 a.m ☑ 
     - 到新千岁后换jr pass，看是否解决上网，新千岁坐到小樽，打车去kourakuen
-  - 7月8新千岁 ~ 7月12新千岁 期间，JR PASS全国联票
-    - 7月8
-     - 预定11号乃之风的班车（11号13:30从札幌站北口出发） or 就地预定到洞爷的jr转20分钟bus(jr pass)/taxi(2000~3000yan)
+  - 7月8
+    - 预定11号乃之风的班车（11号13:30从札幌站北口出发） or 就地预定到洞爷的jr转20分钟bus(jr pass)/taxi(2000~3000yan)
      - 预定班车网址：http://www.noguchi-g.com/bus_rsv.cgi?bus_fac_id=17
-      - We are afraid we do not have shuttle bus.
+    - We are afraid we do not have shuttle bus.
 New Chitose Airport(新千歳空港) —->(65 min by JR Line [1])—-> Otaru-Chikko Station(小樽築港) —->(10 min by taxi)—-> Otaru Korakuen. It cost about 1,500 Yen.
      - Rapid Airport 141 (半小时一班)
      - New Chitose Airport (14:00) - Otaruchikko (15:10)
-    - 7月12☑
-     - 车次： Super Hokuto 8
+  - 7月12☑
+    - 车次： Super Hokuto 8
      - 出发： Toya (11:24)
      - 到达： Shin-Hakodate-Hokuto (13:06)
-     - 车次： Hayabusa 28
+    - 车次： Hayabusa 28
      - 出发： Shin-Hakodate-Hokuto (13:39)
      - 到达： Tokyo (18:04)
   - 7月13: 11点半到三鹰市jr车站
