@@ -45,6 +45,9 @@ New Chitose Airport(新千歳空港) —->(65 min by JR Line [1])—-> Otaru-Chi
     - 到达： Tokyo (18:04)
   - 7月13: 11点半到三鹰市jr车站
   - 7月14：Bella back (reluctantly) to TAS 
+    - 车次： Narita Express(Yokohama) 33
+    - 出发： Tokyo (14:33)
+    - 到达： Narita Airport Terminal 1 (15:27)
     - Bella: 8:00 成田 澳航 ☑
     - Alan: 7:30 成田 国航 ☑
 ## 买
