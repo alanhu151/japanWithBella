@@ -21,11 +21,20 @@
     - 7月8：meet Bella at pvg on 6:00 a.m ☑ 
     - 到新千岁后换jr pass，看是否解决上网，新千岁坐到小樽，打车去kourakuen
     - 预定11号乃之风的班车（11号13:30从札幌站北口出发） or 就地预定到洞爷的jr转20分钟bus(jr pass)/taxi(2000~3000yan)
-    - 预定班车网址：http://www.noguchi-g.com/bus_rsv.cgi?bus_fac_id=17
+    - 预定班车：http://www.noguchi-g.com/bus_rsv.cgi?bus_fac_id=17
+    - 预定札幌到洞爷jr：https://www.eki-net.com/pc/jreast-shinkansen-reservation/Sc/wb/Common/Menu/Menu.aspx
     - We are afraid we do not have shuttle bus.
 New Chitose Airport(新千歳空港) —->(65 min by JR Line [1])—-> Otaru-Chikko Station(小樽築港) —->(10 min by taxi)—-> Otaru Korakuen. It cost about 1,500 Yen.
     - Rapid Airport 141 (半小时一班)
     - New Chitose Airport (14:00) - Otaruchikko (15:10)
+  - 7月9☑
+    - 打车到Hotel Nord Otaru
+  - 7月10☑
+    - 800米到小樽站，到札幌La'Gent Stay Sapporo Odori Hokkaido 
+    - Rapid Airport 130 (半小时一班)
+    - Otaru (12:30) - Sapporo (13:02)
+  - 7月11☑
+    待定：根据7月8
   - 7月12☑
     - 车次： Super Hokuto 8
     - 出发： Toya (11:24)
