@@ -23,6 +23,7 @@
     - 预定11号乃之风的班车（11号13:30从札幌站北口出发） or 就地预定到洞爷的jr转20分钟bus(jr pass)/taxi(2000~3000yan)
     - 预定班车：http://www.noguchi-g.com/bus_rsv.cgi?bus_fac_id=17
     - 预定札幌到洞爷jr：https://www.eki-net.com/pc/jreast-shinkansen-reservation/Sc/wb/Common/Menu/Menu.aspx
+    - 询问下13号10点半从洲际东京湾到三鹰站的车票：是都提前东京站买等
     - We are afraid we do not have shuttle bus.
 New Chitose Airport(新千歳空港) —->(65 min by JR Line [1])—-> Otaru-Chikko Station(小樽築港) —->(10 min by taxi)—-> Otaru Korakuen. It cost about 1,500 Yen.
     - Rapid Airport 141 (半小时一班)
