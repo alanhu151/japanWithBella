@@ -3,7 +3,6 @@
   - 海鲜(海胆)，奶制品：生牛乳，冰激凌，生巧
   - 小樽cheesscake、气球pudding、玉米、烤肉，拉面
 ## 住
-  - 7月7：香格里拉（with Bella）☑
   - 7月8：小樽 
     - 住 KOURAKUEN ☑
     - We are afraid we do not have shuttle bus.
@@ -34,4 +33,4 @@ New Chitose Airport(新千歳空港) —->(65 min by JR Line [1])—-> Otaru-Chi
     - Bella: 8:00 成田 澳航 ☑
     - Alan: 7:30 成田 国航 ☑
 ## 买
-  - 新千岁机场买上网卡或wifi蛋
+  - 新千岁机场试电话卡或wifi蛋
