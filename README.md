@@ -20,7 +20,7 @@
   - 7月8☑
     - 7月8：meet Bella at pvg on 6:00 a.m ☑ 
     - 到新千岁后换jr pass，看是否解决上网，新千岁坐到小樽，打车去kourakuen
-    - 预定11号乃之风的班车（11号13:30从札幌站北口出发） or 就地预定到洞爷的jr转20分钟bus(jr pass)/taxi(2000~3000yan)
+    - 预定11号乃之风的班车（11号13:30从札幌站北口出发，优点是直接送到酒店门口，大概4点到，可以大概逛逛湖景；缺点是可能订不到，在山里开，看不到海景）or 就地预定到洞爷的jr转20分钟bus(jr pass)/taxi(2000~3000yan)（优点是jr时间灵活，一个小时左右一班，沿着海边开，可能可以看到海边景色，可以在札幌慢悠悠吃完再去；缺点是如果太晚可能看不到太多湖景，晚上一片黑）
     - 预定班车：http://www.noguchi-g.com/bus_rsv.cgi?bus_fac_id=17
     - 预定札幌到洞爷jr：https://www.eki-net.com/pc/jreast-shinkansen-reservation/Sc/wb/Common/Menu/Menu.aspx
     - 询问下13号10点半从洲际东京湾到三鹰站的车票：是都提前东京站买等
@@ -35,8 +35,9 @@ New Chitose Airport(新千歳空港) —->(65 min by JR Line [1])—-> Otaru-Chi
     - Rapid Airport 130 (半小时一班)
     - Otaru (12:30) - Sapporo (13:02)
   - 7月11☑
-    待定：根据7月8
+    待定：根据7月8选择乃之风的班车，还是
   - 7月12☑
+    - 早点出发坐bus到洞爷站
     - 车次： Super Hokuto 8
     - 出发： Toya (11:24)
     - 到达： Shin-Hakodate-Hokuto (13:06)
